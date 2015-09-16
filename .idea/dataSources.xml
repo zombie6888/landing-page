@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1677784585">
+    <data-source source="LOCAL" name="SQLite -" uuid="8c82aa8b-cfe7-4ae0-8642-64fcb2d9a69d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/payment_plugins/paypal.db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
